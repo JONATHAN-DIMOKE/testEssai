@@ -9,6 +9,11 @@
 <body>
     <div>
         <h1>Je suis ici</h1>
+        <div>
+            <p>
+                Notification 1
+            </p>
+        </div>
     </div>
 </body>
 </html>
