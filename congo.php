@@ -13,6 +13,9 @@
             <p>
                 Notification 1
             </p>
+            <p>
+                Notification 2
+            </p>
         </div>
     </div>
 </body>
